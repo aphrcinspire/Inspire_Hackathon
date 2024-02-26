@@ -13,3 +13,6 @@ The Implementation Network for Sharing Population Information from Research Enti
 The INSPIRE network leveraged experience from collaborating institutions to launch a competitive hackathon to design an innovative approach to record linkage in the HDSS. The team aims to explore the use of artificial intelligence tools and advances in machine learning algorithms to design a record linkage application or tool. 
 
 This repository contains a machine learning approach to record linkage as explained below
+
+
+## Probabilistic record linkage and fuzzy matching techniques
