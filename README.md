@@ -33,3 +33,28 @@ The method utilizes algorithms and statistical methods to analyze data and make 
 
 ### 5. Handling Uncertainty and Making Probabilistic Decisions
 Machine learning, particularly in its probabilistic forms, is adept at handling uncertainty and making decisions under uncertainty. Probabilistic record linkage explicitly deals with the uncertainty inherent in determining whether records from different datasets refer to the same entity by computing probabilities of matches. This approach of making decisions based on probabilistic reasoning is a key aspect of many ML systems.
+
+# How to run the algorithmn
+
+Run this code to install required packages.
+
+Install python 3.9 on your local environment
+
+(https://www.python.org/downloads/release/python-390/)
+
+Pull the respository to your local computer
+
+```
+git clone  https://github.com/livingstone90/Inspire_Hackathon.git
+
+```
+Install required packages
+```
+pip install python-Levenshtein pandas recordlinkage thefuzz
+
+```
+Open **record.linkage.py** file on your favourite code editor and execute.
+
+Tha code will execute and give you matched records
+
+END
