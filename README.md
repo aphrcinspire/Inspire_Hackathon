@@ -6,11 +6,10 @@ The Implementation Network for Sharing Population Information from Research Enti
 
 1. Ability to correlate household social characteristics with health seeking behavior
 2. Can identify early solutions to improve quality of life at household and community level
+3. Support the prediction of early warning epidemics at community level
+4. Correlate household demographic social characteristics with school attendance among children living in catchment area
+5. Support economic modelling and further estimation of the SDG indicators at community level
 
-3.     Support the prediction of early warning epidemics at community level
+The INSPIRE network leveraged experience from collaborating institutions to launch a competitive hackathon to design an innovative approach to record linkage in the HDSS. The team aims to explore the use of artificial intelligence tools and advances in machine learning algorithms to design a record linkage application or tool. 
 
-4.     Correlate household demographic social characteristics with school attendance among children living in catchment area
-
-5.     Support economic modelling and further estimation of the SDG indicators at community level
-
-The INSPIRE network leverages experience from collaborating institutions to launch a competitive hackathon to design an innovative approach to record linkage in the HDSS. The team aims to explore the use of artificial intelligence tools and advances in machine learning algorithms to design a record linkage application or tool. We hypothesize the use of a tool that can identify a member of the HDSS when they seek health services with the community
+This repository contains a machine learning approach to record linkage as explained below
