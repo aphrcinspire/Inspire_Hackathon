@@ -1,5 +1,5 @@
-** # INSPIRE Hackathon 2024: Record Linkage Challenge
-**
+ # INSPIRE Hackathon 2024: Record Linkage Challenge
+
 
 
 The Implementation Network for Sharing Population Information from Research Entities (INSPIRE) collaborates with over 15 Health and Demographic Surveillance Sites (HDSS) in 7 African countries. INSPIRE network is keen to devise novel means of improving record linkage at community level. Record linkage tools have the ability to identify a person who lives in the HDSS catchment area and link them to the social services that they receive in the community. The social services include health and education services in HDSS catchment area.  Effective record linkage to social services in HDSS communities has the following potential advantages;
