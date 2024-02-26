@@ -55,6 +55,18 @@ pip install python-Levenshtein pandas recordlinkage thefuzz
 ```
 Open **record.linkage.py** file on your favourite code editor and execute.
 
+Set working directory:
+
+```
+import os
+
+# Replace 'path/to/your/directory' with the path to the directory you want to set as your working directory
+os.chdir('path/to/your/directory')
+
+# To check the current working directory
+print(os.getcwd()
+```
+
 Tha code will execute and give you matched records
 
 END
