@@ -6,10 +6,17 @@ Created on Mon Feb 26 16:23:58 2024
 """
 import pandas as pd
 from recordlinkage.preprocessing import clean
+import os
+
+# Replace 'path/to/your/directory' with the path to the directory you want to set as your working directory
+os.chdir('path\\to\\working directory')
+
+# To check the current working directory
+os.getcwd()
 
 #Load dataset from your directory
-facility_df=pd.read_csv("C:\\Users\\lmumelo\\OneDrive - Kemri Wellcome Trust\\Projects\\Inspire_Hackathon\\datasets\\synthetic_facility_v3.csv")
-hdss_df=pd.read_csv("C:\\Users\\lmumelo\\OneDrive - Kemri Wellcome Trust\\Projects\\Inspire_Hackathon\\datasets\\synthetic_hdss_v3.csv")
+facility_df=pd.read_csv(".\\datasets\\synthetic_facility_v3.csv")
+hdss_df=pd.read_csv(".\\datasets\\synthetic_hdss_v3.csv")
 
 range(len(facility_df))
 range(len(hdss_df))
